@@ -1,0 +1,15 @@
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\obj\Debug\net6.0\OrdenamientoBurbujeo.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\obj\Debug\net6.0\OrdenamientoBurbujeo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\obj\Debug\net6.0\OrdenamientoBurbujeo.AssemblyInfoInputs.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\obj\Debug\net6.0\OrdenamientoBurbujeo.AssemblyInfo.cs
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\obj\Debug\net6.0\OrdenamientoBurbujeo.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\bin\Debug\net6.0\OrdenamientoBurbujeo.exe
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\obj\Debug\net6.0\OrdenamientoBurbujeo.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\obj\Debug\net6.0\refint\OrdenamientoBurbujeo.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\obj\Debug\net6.0\OrdenamientoBurbujeo.pdb
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\bin\Debug\net6.0\OrdenamientoBurbujeo.deps.json
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\bin\Debug\net6.0\OrdenamientoBurbujeo.runtimeconfig.json
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\bin\Debug\net6.0\OrdenamientoBurbujeo.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\bin\Debug\net6.0\OrdenamientoBurbujeo.pdb
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\obj\Debug\net6.0\OrdenamientoBurbujeo.genruntimeconfig.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\OrdenamientoBurbujeo\obj\Debug\net6.0\ref\OrdenamientoBurbujeo.dll
